@@ -8,6 +8,17 @@ Live at **https://ignasans.github.io/privacy-policy/** (HTTP 200, verified 23 Se
 - Privacy contact: **info@iaengineering.net**
 - Effective date: **23 September 2026**
 
+## Clarification published 4 October 2026
+
+Commit `1087b53` clarifies that Lantern Table accepts local, session-only clues;
+it offers no online chat or online content sharing. Player labels are generated
+(`Player 1`, etc.), rather than personal names entered by players. The data practices
+and effective date have not changed. The corrected page was verified live in Brave.
+
+The existing public repository had been archived and Pages was disabled. Publication
+restored the repository and its previous `main` / `(root)` Pages source. Repository
+visibility remains public and no access permissions or credentials were changed.
+
 ## Published (23 September 2026)
 
 Repo: **https://github.com/IgnasAns/privacy-policy** (public), Pages deployed from branch
